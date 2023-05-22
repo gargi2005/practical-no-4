@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>BOOK DONAR FORM</title>
+</head>
+<body background="C:\Users\Student\Desktop\book image.jpeg">
+<h1 align="center">BOOK DONAR FORM</h1>
+<form>
+<fieldset>
+<legend >User Personal Information</legend>
+<label align="center" >Enter Your First Name</label><br>
+<input type="text" name="name"><br>
+
+<labelalign="center">Enter Your Last Name</label><br>
+<input type="text" name="name"><br>
+
+<label align="center" >Enter Your E-mail</label><br>
+<input type="email" name="email"><br>
+
+<label align="center">Enter Your Mobile No.</label><br>
+<input type="No." name="Mobile No."><br>
+
+<label align="center">Enter Your Username</label><br>
+<input type="email" name="Username"><br>
+
+<label align="center">Enter Your Password</label><br>
+<input type="pass" name="Password"><br>
+
+<label align="center">Enter Your Confirm Password</label><br>
+<input type="pass"  name="Password"><br>
+
+<label align="center">Enter Your Gender</label><br>
+<input type="radio"  id="gender"name="gender" value="male"/>Male<br>
+
+
+<input type="radio"  id="gender"name="gender" value="female"/>Female<br>
+
+
+<input type="radio"  id="gender"name="gender" value="other"/>Other<br>
+
+<br align="center">Enter your Address:<br>
+<textarea></textarea><br>
+
+<input type="sumbit" value="Sign-up">
+
+</fieldset>
+</form>
+</body>
+</html>
